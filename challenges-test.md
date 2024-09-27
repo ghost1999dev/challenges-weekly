@@ -6,3 +6,9 @@ El proposito de este ejercicio es desarrollar un sistema para gestionar clientes
 ---
 
 ## Requisitos del sistema 
+### 1. **Registro de Clientes**
+    - Crear un cliente solicitando la siguiente informacion:
+        - **Nombre Completo**
+        - **Direccion**
+        - **Telefono de contacto**
+    - **Validar** que el cliente no este duplicado antes de registrarlo.
