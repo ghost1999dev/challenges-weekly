@@ -1,2 +1,7 @@
 # Node modules
 node_modules/
+build/
+src/
+package-lock.json
+package.json
+tsconfig.json
