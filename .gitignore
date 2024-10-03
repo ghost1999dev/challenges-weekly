@@ -1,7 +1,36 @@
-# Node modules
+# Ignorar la carpeta node_modules (librerías y dependencias)
 node_modules/
+
+# Ignorar los archivos de salida de TypeScript
+dist/
+out/
 build/
-src/
+
+# Ignorar los archivos de configuración de la carpeta .vscode
+.vscode/
+
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones y carpetas del entorno de desarrollo
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignorar archivos de lock para la gestión de paquetes
+yarn.lock
 package-lock.json
-package.json
-tsconfig.json
+pnpm-lock.yaml
+
+# Ignorar archivos de log y temporales
+npm-debug.log*
+yarn-error.log*
+*.log
+*.tmp
+
+# Ignorar carpetas de pruebas y caché
+coverage/
+.cache/
