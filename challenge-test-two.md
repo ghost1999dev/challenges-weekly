@@ -2,7 +2,7 @@
 
 Implementa un programa en **Typescript** que simule la gestion de un botiquin en un hospital mediante un sistema de CRUD (Crear, Leer, Actualizar y Eliminar). El programa el programa debe ejecutarse en la consola e incluir la gestion de inventario de medicamentos, permitiendo llevar un control preciso de los mismos y su stock.
 
-## Funcionalidades del CRUD 
+## Funcionalidades del sistema 
 1. Agregar un nuevo medicamento al botiquin.
     - Datos requeridos :
         - Nombre del medicamento.
